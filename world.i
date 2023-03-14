@@ -1,0 +1,2 @@
+PLEASE SAY "Hello, World!" 
+PLEASE GIVE UP
