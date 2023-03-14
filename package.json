@@ -1,0 +1,21 @@
+{
+  "name": "helloworld",
+  "version": "6.9.420",
+  "description": "HelloWorld in as many languages as I can possibly add!",
+  "main": "world.js",
+  "scripts": {
+    "test": "echo Hello world!",
+    "start": "echo Hello world!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrSpeedy35/HelloWorld.git"
+  },
+  "keywords": [],
+  "author": "MrSpeedy35",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrSpeedy35/HelloWorld/issues"
+  },
+  "homepage": "https://github.com/MrSpeedy35/HelloWorld#readme"
+}
